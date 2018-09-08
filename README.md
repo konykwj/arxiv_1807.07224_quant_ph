@@ -1,2 +1,2 @@
 # arxiv_1807.07224_quant_ph
-This contains code that was used to generate Fig 4. of ArXiv 1807.07224 [quant-ph].
+This contains code that was used to generate Fig 4. of ArXiv 1807.07224 [quant-ph]. It is provided in the interest of scientific transparency so that others can repreodcue our work if desired. This code will calculate the phase and fidelity between an input state of two photons in a waveguide compared with the scattered state of the two photons after interacting with an arrray of atoms. Details of the calculation are presented in the ArXiv article. 
